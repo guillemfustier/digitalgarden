@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bufanuvols/jugadores/brhayan/","tags":["estadisticas"]}
+{"dg-publish":true,"permalink":"/bufanuvols/jugadores/brhayan/","tags":["estadisticas"],"noteIcon":""}
 ---
 
 

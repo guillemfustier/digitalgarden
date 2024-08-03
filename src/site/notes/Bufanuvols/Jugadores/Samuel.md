@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bufanuvols/jugadores/samuel/","tags":["estadisticas"]}
+{"dg-publish":true,"permalink":"/bufanuvols/jugadores/samuel/","tags":["estadisticas"],"noteIcon":""}
 ---
 
 

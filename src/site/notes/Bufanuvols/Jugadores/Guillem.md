@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bufanuvols/jugadores/guillem/","tags":["estadisticas"]}
+{"dg-publish":true,"permalink":"/bufanuvols/jugadores/guillem/","tags":["estadisticas"],"noteIcon":""}
 ---
 
 

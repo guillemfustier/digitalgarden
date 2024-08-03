@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bufanuvols/jugadores/alejandro/","tags":["estadisticas"]}
+{"dg-publish":true,"permalink":"/bufanuvols/jugadores/alejandro/","tags":["estadisticas"],"noteIcon":""}
 ---
 
 

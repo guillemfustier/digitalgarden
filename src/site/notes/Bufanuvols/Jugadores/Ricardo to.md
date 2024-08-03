@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bufanuvols/jugadores/ricardo-to/","tags":["estadisticas"]}
+{"dg-publish":true,"permalink":"/bufanuvols/jugadores/ricardo-to/","tags":["estadisticas"],"noteIcon":""}
 ---
 
 

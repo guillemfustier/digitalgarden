@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bufanuvols/home/jugadores/"}
+{"dg-publish":true,"permalink":"/bufanuvols/home/jugadores/","noteIcon":""}
 ---
 
 [[Bufanuvols/Home/0_Home_Bufanuvols\|↩️ Go home]] || [[Bufanuvols/Home/Partidos\|Go partidos ↪️]]
