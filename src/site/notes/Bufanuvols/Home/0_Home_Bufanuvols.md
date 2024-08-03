@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bufanuvols/home/0-home-bufanuvols/"}
+{"dg-publish":true,"permalink":"/bufanuvols/home/0-home-bufanuvols/","tags":["gardenEntry"]}
 ---
 
 # [[Bufanuvols/Home/Partidos\|PARTIDOS]]
