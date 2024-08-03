@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bufanuvols/jugadores/victor/","tags":["estadisticas"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/bufanuvols/jugadores/victor/","tags":["estadisticas"]}
 ---
 
 
